@@ -4,7 +4,7 @@ Markdown is a utility tool to [Make a README](https://www.makeareadme.com/) for 
 
 ### Prerequisite
 
-Vist noodejs installation [instructions](https://nodejs.org/en/download/) for your specific OS.
+Browse nodeJS installation [instructions](https://nodejs.org/en/download/) for your specific OS.
 
 ```bash
 $ npm install --save-dev marked
